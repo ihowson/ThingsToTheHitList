@@ -1,6 +1,6 @@
 # A Things to The Hit List conversion script
 
-## THIS WILL ERASE YOUR THL DATABASE. Keep a backup!
+More conversion scripts are available at http://www.ianhowson.com/migrate-between-todo-list-programs.html
 
 5-second README: 
 
